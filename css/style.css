@@ -1,0 +1,26 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+
+}
+
+body{
+  font-family:'Poppins', sans-serif ;
+  background-color: rgb(250, 246, 246);
+}
+body h1{
+  color: lightpink;
+}
+body p{
+  color: grey;
+}
+.logo{
+  width: 150px;
+}
+.row{
+  display: flex ;
+  align-items: center;
+  
+
+}
